@@ -1,0 +1,8 @@
+LICENSE.txt
+README.txt
+numtheo.py
+setup.py
+numtheory.egg-info/PKG-INFO
+numtheory.egg-info/SOURCES.txt
+numtheory.egg-info/dependency_links.txt
+numtheory.egg-info/top_level.txt
